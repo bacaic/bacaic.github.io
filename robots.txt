@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Sitemap: /sitemap.txt
+Sitemap: /sitemap.xml
+Sitemap: /rss.txt
+Sitemap: /rss.xml
+Sitemap: /atom.txt
+Sitemap: /atom.xml
+Sitemap: /feed.txt
+Sitemap: /feed.xml
